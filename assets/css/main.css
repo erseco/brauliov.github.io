@@ -3368,7 +3368,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #448aff;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3447,7 +3447,7 @@
 			#banner.major.alt {
 				opacity: 0.75;
 			}
-
+		/* Cuadrados del principio */
 		#banner.style1:after {
 			background-color: #6fc3df;
 		}
@@ -3906,11 +3906,15 @@
 		visibility: visible;
 	}
 
-		body.is-menu-visible #menu .inner {
-			-moz-transform: none;
-			-webkit-transform: none;
-			-ms-transform: none;
-			transform: none;
-			opacity: 1;
-			visibility: visible;
-		}
+	body.is-menu-visible #menu .inner {
+		-moz-transform: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+		opacity: 1;
+		visibility: visible;
+	}
+
+	.language {
+		padding-left: 2%;
+	}
