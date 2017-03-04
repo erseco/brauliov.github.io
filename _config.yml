@@ -1,36 +1,46 @@
-# Site settings
-title: Braulio
-subtitle: Vargas López
-email: youremailaddress@gmail.com
-description: Here you can find info about me and my projects.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author: Braulio Vargas López
-# street_address: 
-city: Granada
-state: Andalucía
-# zip_code: 
-country: Spain
-# phone: 
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
-
-# Social settings
-500px_url: https://500px.com/brauliovargas
-facebook_url:
-github_url: https://github.com/BraulioV
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: https://www.linkedin.com/in/brauliovargaslopez/
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/brau_vl
-
-# Build settings
-markdown: kramdown
-
+source: source
+destination: _site
 sass:
-  style: compressed
+  sass_dir: _sass
+  style: expanded # compressed # expanded
+
+# permalink and highlighter
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : pygments.rb
+
+# SEO settings
+title: Braulio's site
+description: "A free Jekyll theme for download"
+keywords: "Jekyll, theme, free, download, SEO, blog, web"
+
+# Site settings
+url: 
+baseurl: 
+# baseurl: ""
+
+# Author settings
+author:
+  name      : Braulio Vargas
+  job       : Computer Engineering Student
+  bio       : "Computer Engineering student of University of Granada, interested on machine learning, data science, computer vision, photography..."
+  thumb     : /images/author.jpg
+  email     : brauliovarlop@correo.ugr.es
+  url       : brauliov.github.io
+  github    : http://github.com/BraulioV
+  twitter   : http://twitter.com/brau_vl
+  facebook  : 
+  linkedin  : http://linkedin.com/in/brauliovargaslopez
+
+# google_analytics: UA-52446115-1
+repo: 
+
+# comments
+disqus_shortname: 
