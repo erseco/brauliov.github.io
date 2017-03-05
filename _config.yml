@@ -15,14 +15,13 @@ markdown    : kramdown
 highlighter : rouge
 
 # SEO settings
-title: Braulio's site
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: Braulio Vargas - BraulioV
+description: "My personal web page."
+# keywords: "Jekyll, theme, free, download, SEO, blog, web"
 
 # Site settings
 url: 
 baseurl: 
-# baseurl: ""
 
 # Author settings
 author:
