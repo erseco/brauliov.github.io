@@ -9,12 +9,12 @@ permalink: /about/
 
 I'm Braulio Vargas López and I'm 21. I'm finishing my bachelor on Computer Engineering student of University of Granada, interested on machine learning, data science, computer vision, photography... etc.
 
-## Education
+# Education
 
 Bachelor in Computer Engineering, specialized on Computer Science and Artificial Intelligence at University of Granada.
 
-## Skills
-### Programming
+# Skills
+## Programming
 My three favorite programming languages are __Python__, __Haskell__ and __C++__ and my main language is ___Python___.
 <div style="text-align: center; width: 100%">
     <img src="/images/python.png" alt="Python" class="language" style="width: 11%;"/>
@@ -36,7 +36,7 @@ My three favorite programming languages are __Python__, __Haskell__ and __C++__ 
     <img src="/images/eclipse.png" alt="ECLiPSe" class="language" style="width: 16%;"/>
 </div>
 
-### Tools
+## Tools
 
 I work with a lot of tools, but in the last two years, I've specialized on __OpenCV__, __scikit-learn__, __NumPy__ and other Python tools for machine learning and datascience, like __Pandas__, __ggplot2__, etc.
 
