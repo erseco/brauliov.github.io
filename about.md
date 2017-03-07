@@ -7,6 +7,8 @@ permalink: /about/
 
 # Me
 
+<img src="/images/me.png" alt="Braulio Vargas López" style="width: 50%; margin-left: 25%">
+
 I'm Braulio Vargas López and I'm 21. I'm finishing my bachelor on Computer Engineering student of University of Granada, interested on machine learning, data science, computer vision, photography... etc.
 
 # Education
