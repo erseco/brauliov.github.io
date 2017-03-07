@@ -56,3 +56,16 @@ I work with a lot of tools, but in the last two years, I've specialized on __Ope
         <img src="/images/voxeo.png" alt="Voxeo" class="language" style="width: 20%"/>
     </div>
 </div>
+
+# Extracurricular Activity
+
+## Python Granada
+<div style="width: 100%; display: inline-block;">
+    <a href="https://www.python-granada.es"><img src="/images/python-granada.png" alt="Python Granada" style="width: 15%; float: right"></a>
+
+    <div style="width: 60%; float: left">
+        <p>Python Granada is an association of Python developers, centered on create a community, learn new things, create events like <i><b>PyDay</b></i> to give talks about interesting themes, workshops, etc. Right now, I'm one of the organizers of Python Granada.</p>
+
+        <p>I also gave a talk about <i><b>Genetic Algorithms</b></i>, a short introduction, at first <i>PyDay</i> of Python Granada at Facultad de Ciencias of Granada.</p>
+    </div>
+</div>
