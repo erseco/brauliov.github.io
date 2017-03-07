@@ -7,7 +7,7 @@ permalink: /about/
 
 # Me
 
-<img src="/assets/images/me.jpeg" alt="Braulio Vargas López" style="width: 50%; margin-left: 25%">
+<img src="/assets/images/me.png" alt="Braulio Vargas López" style="width: 50%; margin-left: 25%">
 
 I'm Braulio Vargas López and I'm 21. I'm finishing my bachelor on Computer Engineering student of University of Granada, interested on machine learning, data science, computer vision, photography... etc.
 
@@ -71,3 +71,15 @@ I work with a lot of tools, but in the last two years, I've specialized on __Ope
         <p>I also gave a talk about <i><b>Genetic Algorithms</b></i>, a short introduction, at first <i>PyDay</i> of Python Granada at Facultad de Ciencias of Granada.</p>
     </div>
 </div>
+
+## Geek & Tech Girls
+
+<div style="width: 100%; display: inline-block;">
+    <a href="https://geekandtechgirls.github.io/"><img src="/assets/images/gtg.png" alt="Geek & Tech Girls" style="width: 15%; float: right"></a>
+
+    <div style="width: 60%; float: left">
+        <p>Geek & Tech Girls is a community that brings technology to women of all ages, and fight to visualize the woman and achive an egalitarian and inclusive society.</p>
+        <p>I colaborate with them in a workshop called <i><b>Women in Django</b></i>, creating a Jupyter Notebook with a tutorial for using NumPy and functional programming with Python. It's available <a href="https://github.com/geekandtechgirls/Women-In-Django">here</a>.</p>
+    </div>
+</div>
+
