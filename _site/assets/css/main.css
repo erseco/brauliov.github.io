@@ -58,6 +58,7 @@ abbr[title] {
 b,
 strong {
   font-weight: bold;
+  color: #1e88e5;
 }
 
 dfn {
@@ -446,6 +447,7 @@ h6 {
   font-weight: 600;
   line-height: 1.2;
   margin: 0 0 1em;
+  /*color: $primary-color;*/
 }
 
 p {

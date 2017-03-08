@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Who I am and more info about my education, skills, projects... 
-permalink: /about/
+permalink: /about-me/
 ---
 
 # Me
@@ -83,3 +83,25 @@ I work with a lot of tools, but in the last two years, I've specialized on __Ope
     </div>
 </div>
 
+## Hacktoberfest 2016
+
+<div style="width: 100%; display: inline-block;">
+    <a href="https://hacktoberfest.digitalocean.com/"><img src="/assets/images/hacktoberfest.png" alt="Hacktoberfest 2016" style="width: 15%; float: right"></a>
+
+    <div style="width: 60%; float: left">
+        <p>Hacktoberfest it's an event promoted by <i><b>DigitalOcean</b></i> and <i><b>GitHub</b></i> to encourage people to colaborate with open source projects hosted in GitHub and promote the open source.</p> 
+        <p> If you do at least 4 <i>pull request</i>, you complete the "challenge" and earn a T-shirt and some stickers, like I did.</p>
+    </div>
+</div>
+
+## Google Hashcode 2017
+
+<div style="width: 100%; display: inline-block;">
+    <a href="https://hashcode.withgoogle.com/"><img src="/assets/images/hashcode.png" alt="Google Hashcode 2017" style="width: 15%; float: right"></a>
+
+    <div style="width: 60%; float: left">
+        <p>Hashcode it's a competition where you team up to solve a real-life engineering problem from Google, in a few hours.
+</p> 
+        <p>This was my first Hashcode, and me and my team got the rank <b>#1190</b> on the qualification round and the <b>#42</b> of the spanish teams.</p>
+    </div>
+</div>
