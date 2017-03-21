@@ -102,6 +102,6 @@ I work with a lot of tools, but in the last two years, I've specialized on __Ope
     <div style="width: 60%; float: left">
         <p>Hashcode it's a competition where you team up to solve a real-life engineering problem from Google, in a few hours.
 </p> 
-        <p>This was my first Hashcode, and me and my team got the rank <b>#1190</b> on the qualification round and the <b>#42</b> of the spanish teams. Our repo with the code it's <a href="https://github.com/erseco/google_hashcode_2017">here</a>.</p>
+        <p>This was my first Hashcode, and me and my team got the rank <b>#1190</b> on the qualification round and the <b>#42</b> of the Spanish teams. Our repo with the code it's <a href="https://github.com/erseco/google_hashcode_2017">here</a>.</p>
     </div>
 </div>
